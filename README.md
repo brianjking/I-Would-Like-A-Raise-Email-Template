@@ -55,7 +55,7 @@ I have no desire to work anywhere else, but lately I have been getting lots of r
 
 Now that I have been married for a couple years, I am starting to make plans for a family, so it is really important to me that I continue to advance my career.
 
-Get back to me when you have some time and we can discuss further.
+Please get back to me when you have some time so we can discuss further.
 Thanks!
 
 
