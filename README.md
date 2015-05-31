@@ -64,7 +64,8 @@ Thanks!
 Do you have your own example, or a different approach? Submit an issue or pull request.
 
 
-I Would Like A Raise article and email written by:
-John Polacek, Lead Web Developer at [Gesture](http://gesture.com)
-[johnpolacek.com](http://johnpolacek.com)
-[@johnpolacek](https://twitter.com/johnpolacek)
+**Project by John Polacek, Lead Web Developer at [Gesture](http://gesture.com)**
+
+**Follow on Twitter: [@johnpolacek](https://twitter.com/johnpolacek)**<br>
+**Blog: [johnpolacek.com](http://johnpolacek.com)**
+
