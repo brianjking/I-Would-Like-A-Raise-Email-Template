@@ -32,6 +32,8 @@ Things to keep in mind:
 
 ## Template
 
+*SUBJECT: Let’s Talk About a Raise*
+
 Hi [name of your boss] -
 
 [State things you love about your company ways you continue make a positive impact on what your company does]
