@@ -42,7 +42,7 @@ Hi [name of your boss] -
 
 [State research about how other companies are paying more for people that are just like you. If you want to move up to a more senior position, then make your case.]
 
-[Finish an invitation to continue the discussion in person.]
+[Finish with an invitation to continue the discussion in person.]
 
 
 ## Example
