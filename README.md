@@ -42,7 +42,7 @@ Hi [name of your boss] -
 
 [State research about how other companies are paying more for people that are just like you. If you want to move up to a more senior position, then make your case.]
 
-[Optionally, finish with a compelling reason of why this is important to you as a person, e.g. you owe it to your family/future family/adventure fund to make a proper salary for what you have to offer]
+[Finish an invitation to continue the discussion in person.]
 
 
 ## Example
@@ -52,8 +52,6 @@ Hi [Name of your boss] -
 As you know, I love it here. Our team is solid and I really enjoy collaborating with them. I feel lucky to get to work on projects like [awesome project] for [client] and [other project] for [other client]. Being able to add my skills and knowledge to the mix of all the talented people here at the agency makes it really exciting for me to come to work every day.
 
 I have no desire to work anywhere else, but lately I have been getting lots of recruiters and people I know at other companies reaching out to me to see if I'd be interested in making a move. I turn them down of course, but in doing some research, I see that the average salary for web developers in [city] is about 5% higher than what I am currently making. I certainly consider myself above average, and I hope you agree.
-
-Now that I have been married for a couple years, I am starting to make plans for a family, so it is really important to me that I continue to advance my career.
 
 Please get back to me when you have some time so we can discuss further.
 Thanks!
